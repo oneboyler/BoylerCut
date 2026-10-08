@@ -26,9 +26,6 @@ BoylerCut is a free video clip editor for Windows. Pick a recording, cut it, add
 
   ![The Colour panel](images/sliders.jpg)
   *Colour: sliders for light and colour, extras and LUTs, with the result in the player as you move them.*
-
-  ![Blur box hiding names](images/blur.png)
-  *Blur box: draw a box over a name, chat or a notification and it is blurred.*
 - **Keyframes:** text, emoji, pictures, timers, blur boxes, zooms and crops can move, grow and turn over time.
 - **Transitions** between clips in Advanced: wipes, slides, cross zoom, cube spin, page curl, glitch and many more.
 - **Templates:** save your effects, text, song and mixer as a template with a picture, and put them on the next clip in one click - or let a start template go on every new clip.
