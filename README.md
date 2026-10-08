@@ -2,15 +2,33 @@
 
 BoylerCut is a free video clip editor for Windows. Pick a recording, cut it, add effects, render it and drag the file straight into Discord. Everything runs on your own PC: no account, and nothing is uploaded.
 
+![Simple mode: a clip with Colour, Zoom and Text on its strip](images/simple.png)
+*Simple mode: one clip, its effects on the strip and the render settings at the side.*
+
 ## Features
 
 - **Four modes:** Simple cuts one clip, Advanced is a timeline for many clips, Batch renders many clips with the same settings, and Convert turns files into another video, sound or picture type.
+
+  ![Advanced mode](images/advanced.png)
+  *Advanced: clips on a timeline with a transition between them, text on top and a volume slider for every track.*
 - **Your clips at a glance:** open the folder you record into and rest the pointer on a clip to play it, or open the big clips view to see them all, grouped by day. Drag clips and finished renders straight into Discord, Explorer or any app.
+
+  ![The big clips view](images/clips.png)
+  *The big clips view: every clip grouped by day, one playing in the player.*
 - **Quick cutting:** trim the start and end, cut a clip into pieces, take pieces out, mute a stretch, and fade anything in or out.
 - **Effects** for the picture and the sound: Colour (with LUTs), Speed, Reverse, Crop, Zoom, Text, Blur box, Pixelate, Camera shake, Freeze frame, Equalizer, Compressor and many more.
+
+  ![The Colour panel](images/colour.png)
+  *Colour: sliders for light and colour, extras and LUTs, with the result in the player as you move them.*
+
+  ![Blur box hiding names](images/blur.png)
+  *Blur box: draw a box over a name, chat or a notification and it is blurred.*
 - **Keyframes:** text, emoji, pictures, timers, blur boxes, zooms and crops can move, grow and turn over time.
 - **Transitions** between clips in Advanced: wipes, slides, cross zoom, cube spin, page curl, glitch and many more.
 - **Templates:** save your effects, text, song and mixer as a template with a picture, and put them on the next clip in one click - or let a start template go on every new clip.
+
+  ![Templates](images/templates.png)
+  *Templates: each one has a picture, and puts its effects, text, song and mixer on the next clip in one click.*
 - **Music and sound:** a mixer that plays every audio track of your recording, a song under your clip, and a song's sound from a link as mp3.
 - **Downloads:** paste a video link and it is saved as mp4, ready to edit.
 - **AI tools that run on your PC:** Subtitles, Text to speech, Noise removal, Voice isolation, Frame generation, Motion blur, AI upscale and Tracking. Their models download from the Add-ons page only when you want them.
